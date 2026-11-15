@@ -3,7 +3,7 @@
 **BS Data Science & AI — FAST NUCES, Lahore**  
 Building end-to-end machine learning systems, data pipelines, and backend-driven applications.
 
-[LinkedIn](https://linkedin.com/in/whozahm3d) • [Linktree](https://linktr.ee/whozahm3d) • [GitHub](https://github.com/whozahm3d)
+[LinkedIn](https://linkedin.com/in/whozahm3d) • [Linktree](https://linktr.ee/whozahm3d) • [GitHub](https://github.com/whoizahm3d)
 
 ---
 
